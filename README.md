@@ -68,9 +68,11 @@ Test Performance
   * False positives, while inconvenient, are less costly in this medical context.
 
 ## **Results Visualization**
-Confusion Matrix – Raw Counts
+Training Data Set Confusion Matrix
+![Training Data Set Confusion Matrix](TrainMatrix.png)
 
-Confusion Matrix – Normalized
+Testing Data Set Confusion Matrix
+![Testing Data Set Confusion Matrix](TestMatrix.png)
 
 ## **Key Takeaway**
 
